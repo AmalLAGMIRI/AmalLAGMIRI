@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,linux,cpp,docker,figma,mysql&perline=5)](https://skillicons.dev)
+
+
+[![alagmiri's 42 stats](https://badge.mediaplus.ma/starryblue/alagmiri)](https://github.com/oakoudad/badge42)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalLAGMIRI&layout=compact&theme=dracula)
+
+
 <!--
 **AmalLAGMIRI/AmalLAGMIRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
