@@ -7,6 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalLAGMIRI&layout=compact&theme=dracula)
 
+<a href="https://www.discordapp.com/users/877249195386474496">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 <!--
 **AmalLAGMIRI/AmalLAGMIRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
