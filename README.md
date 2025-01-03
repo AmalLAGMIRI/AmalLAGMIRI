@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,linux,cpp,docker,figma,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,linux,cpp,docker,figma,mysql&perline=8)](https://skillicons.dev)
 
 
 [![alagmiri's 42 stats](https://badge.mediaplus.ma/starryblue/alagmiri)](https://github.com/oakoudad/badge42)
